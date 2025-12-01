@@ -22,7 +22,7 @@ const Charts = ({ darkMode}) => {
           }`}
           style={{ transition: "0.2s" }}
         >
-          <h3 className="fs-5 fw-bold mb-4 text-dark">Monthly Orders</h3>
+          <h3 className={`fs-5 fw-bold mb-4 ${darkMode ? "text-white" : "text-dark"}`}>Monthly Orders</h3>
           <ResponsiveContainer width="100%" height={300}>
             <LineChart data={chartData}>
               <CartesianGrid strokeDasharray="3 3" />
@@ -46,7 +46,7 @@ const Charts = ({ darkMode}) => {
         }`}
         style={{ transition: "0.2s" }}
       >
-        <h3 className="fs-5 fw-bold mb-4 text-dark">Monthly Income</h3>
+        <h3 className={`fs-5 fw-bold mb-4 ${darkMode ? "text-white" : "text-dark"}`}>Monthly Income</h3>
         <ResponsiveContainer width="100%" height={300}>
           <BarChart data={chartData}>
             <CartesianGrid strokeDasharray="3 3" />
