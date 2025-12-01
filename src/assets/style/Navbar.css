@@ -1,0 +1,18 @@
+.input-dark {
+  background-color: #212529 !important;
+  color: #ffffff !important;
+  border-color: #6c757d !important;
+}
+
+.input-dark::placeholder {
+  color: #bfbfbf !important; 
+}
+
+.input-light::placeholder {
+  color: #6c757d !important;
+}
+@media screen and (max-width:412px) {
+    .navResponsive{
+      display: none;
+    }
+}

@@ -1,0 +1,5 @@
+@media screen and (max-width:512px) {
+    .test{
+        display: none;
+    }
+}

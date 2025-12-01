@@ -1,0 +1,10 @@
+.responsive{
+    display: none;
+}
+@media screen and (max-width:412px) {
+    .responsive{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
