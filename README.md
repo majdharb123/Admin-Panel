@@ -3,7 +3,7 @@
 A modern, responsive Admin Dashboard built with **React.js** and **Bootstrap**. This project demonstrates my ability to build dynamic user interfaces, manage state effectively, and visualize data using charts.
 
 ## 🚀 Live Demo
-👉 **[Click Here to View Live Demo](رابط_المشروع_بعد_الرفع)** *(Replace this text with your actual Vercel/Netlify link after deployment)*
+👉 **[Click Here to View Live Demo](https://admin-panel-nine-orpin.vercel.app/)** *(Replace this text with your actual Vercel/Netlify link after deployment)*
 
 ## ✨ Key Features
 
