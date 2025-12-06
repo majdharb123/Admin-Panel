@@ -3,7 +3,7 @@
 A modern, responsive Admin Dashboard built with **React.js** and **Bootstrap**. This project demonstrates my ability to build dynamic user interfaces, manage state effectively, and visualize data using charts.
 
 ## 🚀 Live Demo
-👉 **[Click Here to View Live Demo](https://admin-panel-nine-orpin.vercel.app/)** *(Replace this text with your actual Vercel/Netlify link after deployment)*
+👉 **[Click Here to View Live Demo](https://admin-panel-nine-orpin.vercel.app/)**
 
 ## ✨ Key Features
 
@@ -27,7 +27,7 @@ A modern, responsive Admin Dashboard built with **React.js** and **Bootstrap**. 
 
 | Light Mode | Dark Mode |
 |:----------:|:---------:|
-| <img width="1920" height="904" alt="image" src="https://github.com/user-attachments/assets/c128341f-12ae-4720-92d4-b4a554821baa" /> | <img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/51f99940-5345-4199-bda2-9e367c30e183" /> |
+| *(Add Screenshot Here)* | *(Add Screenshot Here)* |
 
 *(Tip: Take screenshots of your dashboard in both modes and upload them to the project or use an image hosting link here)*
 
