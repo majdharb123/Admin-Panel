@@ -59,7 +59,7 @@ The app will open in your browser at `http://localhost:3000`.
 ## 👤 Author
 
 **Majd Harb**
-* **Portfolio:** [Link to your Portfolio/LinkedIn]
+* **LinkedIn:** [https://www.linkedin.com/in/majd-harb-cs/]
 * **GitHub:** [majdharb123](https://github.com/majdharb123)
 * **Email:** [majdharb37@gmail.com]
 
